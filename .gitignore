@@ -1,0 +1,12 @@
+# Generated tutorial outputs
+/step1_data/
+/step2_networks/
+/step3_zones/
+/step4_merge/
+/step6_accessibility/
+
+# Local notebook and Python files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
